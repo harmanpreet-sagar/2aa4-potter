@@ -1,11 +1,7 @@
 package ca.mcscert.se2aa4.demos.potter;
 
-import static ca.mcscert.se2aa4.demos.potter.Book.BOOK1;
-import static ca.mcscert.se2aa4.demos.potter.Book.BOOK2;
-import static ca.mcscert.se2aa4.demos.potter.Book.BOOK3;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static ca.mcscert.se2aa4.demos.potter.Book.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
